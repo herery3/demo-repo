@@ -2,4 +2,4 @@
 
 This is my first changes in Readme file
 
-Thanks
+Thanks all
